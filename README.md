@@ -28,7 +28,8 @@
 
 ### 📫 Contact Me
 
-📧 Email: [info@anhphan.dev](mailto:info@anhphan.de)
-💼 LinkedIn: [linkedin.com/in/pnvanh]([https://linkedin.com/in/yourusername](https://linkedin.com/in/pnvanh))
+📧 Email: [info@anhphan.dev](mailto:info@anhphan.dev)
+
+💼 LinkedIn: [pnvanh](https://linkedin.com/in/pnvanh)
 
 ---
