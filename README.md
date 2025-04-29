@@ -5,7 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-🔭 I’m currently working on Est rouge Vietnam
+🔭 I’m currently working on Est rouge Viet Nam
 
 🌱 I’m currently learning Viet Nam - Korea Information and Communication Technology University
 
