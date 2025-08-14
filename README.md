@@ -19,7 +19,7 @@
 
 🔹 **Frameworks:** Flutter, UIKit, SwiftUI
 
-🔹 **State Management:** BLoC, Riverpod, Provider, GetX
+🔹 **State Management:** BLoC, Provider, GetX
 
 🔹 **Tools:** Firebase, Git, Figma, Postman, Xcode, Android Studio, VS Code, Cursor
 
