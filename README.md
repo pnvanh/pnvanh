@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Anh Phan</h1>
-<h3 align="center">A passionate Mobile Engineer from Viet Nam</h3>
+<h3 align="center">A passionate Mobile Engineer from Da Nang</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 
-🔭 I’m currently working on Est rouge Viet Nam
+💻 I’m currently working on Est rouge Viet Nam
 
-🌱 I’m currently learning Viet Nam - Korea Information and Communication Technology University
+💻 I worked at Madison Technologies. as an iOS/Flutter Developer.
 
 💬 Ask me about **Flutter, Dart, iOS (UIKit/SwiftUI), Clean Architecture**
 
