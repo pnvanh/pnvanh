@@ -5,23 +5,23 @@
 
 ### 🧑‍💻 About Me
 
-💻 I’m currently working on Est rouge Viet Nam
+💻 I’m currently working on Est rouge Viet Nam.
 
 💻 I worked at Madison Technologies. as an iOS/Flutter Developer.
 
-💬 Ask me about **Flutter, Dart, iOS (UIKit/SwiftUI), Clean Architecture**
+💬 Ask me about **Flutter, Dart, iOS (UIKit/SwiftUI), Clean Architecture**.
 
 ---
 
 ### 🛠️ Tech Stack
 
-🔹 **Languages:** Dart, Swift, JavaScript
+🔹 **Languages:** Dart, Swift, JavaScript.
 
-🔹 **Frameworks:** Flutter, UIKit, SwiftUI
+🔹 **Frameworks:** Flutter, UIKit, SwiftUI.
 
-🔹 **State Management:** BLoC, Provider, GetX
+🔹 **State Management:** BLoC, Provider, GetX.
 
-🔹 **Tools:** Firebase, Git, Figma, Postman, Xcode, Android Studio, VS Code, Cursor
+🔹 **Tools:** Firebase, Git, Figma, Postman, Xcode, Android Studio, VS Code, Cursor.
 
 ---
 
